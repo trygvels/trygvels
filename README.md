@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**trygvels/trygvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**trygvels/trygvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=trygvels&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
 
 I'm Trygve, a cosmologist and programmer working on CMB and component separation for my PhD at the University of Oslo, Norway.
@@ -9,6 +8,7 @@ I'm Trygve, a cosmologist and programmer working on CMB and component separation
 - :computer: Currently working on: A joint analysis of the Planck LFI data ++, through [BeyondPlanck](https://beyondplanck.science/)
 - :mailbox_with_mail: Reach me: [t.l.svalheim@astro.uio.no](mailto:t.l.svalheim@astro.uio.no)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
