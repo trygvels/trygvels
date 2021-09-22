@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--**trygvels/trygvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="right" src=![Trygve's GitHub stats](https://github-readme-stats.vercel.app/api?username=trygvels&count_private=true)/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=trygvels&show_icons=true&count_private=true&hide_title=true&show_icons=true"/>
 
 
 
