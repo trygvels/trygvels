@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--**trygvels/trygvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trygvels&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
+<img align="right" src=![Trygve's GitHub stats](https://github-readme-stats.vercel.app/api?username=trygvels&count_private=true)/>
+
+
 
 I'm Trygve, a cosmologist and programmer working on CMB and component separation for my PhD at the University of Oslo, Norway.
 
