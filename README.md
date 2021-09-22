@@ -5,7 +5,7 @@
 
 
 
-I'm Trygve, a cosmologist and programmer working on CMB and component separation for my PhD at the University of Oslo, Norway.
+I'm Trygve, a cosmologist and programmer working on Cosmic Microwave Background (CMB) analysis for my PhD at the University of Oslo, Norway.
 
 - :computer: Currently working on: A joint analysis of the Planck LFI data ++, through [BeyondPlanck](https://beyondplanck.science/)
 - :mailbox_with_mail: Reach me: [t.l.svalheim@astro.uio.no](mailto:tlsvalheim@gmail.com)
