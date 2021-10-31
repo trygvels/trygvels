@@ -7,8 +7,8 @@
 
 I'm Trygve, a cosmologist and programmer working on Cosmic Microwave Background (CMB) analysis for my PhD at the University of Oslo, Norway.
 
-- :computer: Currently working on: A joint analysis of the Planck LFI data ++, through [BeyondPlanck](https://beyondplanck.science/)
-- :mailbox_with_mail: Reach me: [t.l.svalheim@astro.uio.no](mailto:tlsvalheim@gmail.com)
+- :satellite: Currently working on: A joint analysis of the Planck LFI data ++, through [BeyondPlanck](https://beyondplanck.science/)
+- :mailbox_with_mail: Reach me: [tlsvalheim@gmail.com](mailto:tlsvalheim@gmail.com)
 
 <!--
 Here are some ideas to get you started:
