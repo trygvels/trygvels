@@ -4,6 +4,7 @@
 
 
 I'm Trygve, PhD in cosmology working as a Data Scientist at Menon Economics. :artificial_satellite:
+
 :mailbox_with_mail: Reach me: [tlsvalheim@gmail.com](mailto:tlsvalheim@gmail.com)
 
 <!--
