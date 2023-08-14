@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 <!--**trygvels/trygvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trygvels&show_icons=true&count_private=true&hide_title=true&show_icons=true"/>
 
 
-
-I'm Trygve, a cosmologist and programmer working on Cosmic Microwave Background (CMB) analysis for my PhD at the University of Oslo, Norway.
-
-- :artificial_satellite: Currently working on: A joint analysis of the Planck LFI data ++, through [BeyondPlanck](https://beyondplanck.science/)
-- :mailbox_with_mail: Reach me: [tlsvalheim@gmail.com](mailto:tlsvalheim@gmail.com)
+I'm Trygve, PhD in cosmology working as a Data Scientist at Menon Economics. :artificial_satellite:
+:mailbox_with_mail: Reach me: [tlsvalheim@gmail.com](mailto:tlsvalheim@gmail.com)
 
 <!--
 Here are some ideas to get you started:
